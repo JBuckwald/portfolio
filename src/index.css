@@ -11,5 +11,6 @@
     html{
         background-color: var(--color-portfolio-bg);
         font-family: var(--font-roboto);
+        color: white;
     }
 }
